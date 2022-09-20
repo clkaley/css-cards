@@ -20,3 +20,9 @@
 
 ![Ekran Görüntüsü (604)](https://user-images.githubusercontent.com/74673470/191229052-73fed0f4-df2d-426e-84cb-8bbe7f4a6c36.png)
 
+### Card 04
+
+![Ekran Görüntüsü (605)](https://user-images.githubusercontent.com/74673470/191232137-5ebed11e-cf33-4b5e-ace1-c7b76eb11654.png)
+
+
+![Ekran Görüntüsü (606)](https://user-images.githubusercontent.com/74673470/191232141-93b777cd-f730-4dd0-b2dc-7c32bf7719b2.png)
