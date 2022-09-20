@@ -1,5 +1,8 @@
 # CSS-Cards
 
+* box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;
+
+
 ### Card 01
 
 ![Ekran Görüntüsü (600)](https://user-images.githubusercontent.com/74673470/191100155-c1e60d8c-69c0-4a1e-bfe4-94f6d3affd81.png)
@@ -26,3 +29,12 @@
 
 
 ![Ekran Görüntüsü (606)](https://user-images.githubusercontent.com/74673470/191232141-93b777cd-f730-4dd0-b2dc-7c32bf7719b2.png)
+
+
+
+### Card 05
+
+![Ekran Görüntüsü (607)](https://user-images.githubusercontent.com/74673470/191236139-bf1e3fd6-4d24-41a4-b7b0-aa61be3c097b.png)
+
+
+![Ekran Görüntüsü (608)](https://user-images.githubusercontent.com/74673470/191236145-d8076574-3679-459a-8b3b-9615d17bf232.png)
