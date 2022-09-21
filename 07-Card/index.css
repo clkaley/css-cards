@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card{
+    width: 210px;
+    height: 280px;
+    border-radius: 20px;
+    background-color: black;
+    cursor: pointer;
+    padding: 5px;
+    border: #212121 4px solid;
+    transition:all 0.7s;
+}
+
+
+.card:hover{
+    margin-top: -50px;
+    border-radius: 10px 10px 10px 0;
+    border-image:linear-gradient(to right, rgb(255, 0, 170),rgb(244, 141, 141) ,purple ) 30;
+}
