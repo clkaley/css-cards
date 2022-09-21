@@ -38,3 +38,9 @@
 
 
 ![Ekran Görüntüsü (608)](https://user-images.githubusercontent.com/74673470/191236145-d8076574-3679-459a-8b3b-9615d17bf232.png)
+
+
+
+### Card 06
+
+![Ekran Görüntüsü (612)](https://user-images.githubusercontent.com/74673470/191468607-01734c82-eb5d-4002-ac7a-c5532d73ac70.png)
