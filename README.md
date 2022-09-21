@@ -48,3 +48,8 @@
 
 
 ### Card 07
+
+![Ekran Görüntüsü (613)](https://user-images.githubusercontent.com/74673470/191472686-a6465e56-6a54-4674-8313-8955bfb6fe80.png)
+
+
+![Ekran Görüntüsü (614)](https://user-images.githubusercontent.com/74673470/191472692-8761b461-7724-49ef-91d0-7b11eaebaf92.png)
