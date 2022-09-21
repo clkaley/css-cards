@@ -44,3 +44,7 @@
 ### Card 06
 
 ![Ekran Görüntüsü (612)](https://user-images.githubusercontent.com/74673470/191468607-01734c82-eb5d-4002-ac7a-c5532d73ac70.png)
+
+
+
+### Card 07
