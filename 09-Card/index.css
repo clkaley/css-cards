@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(217, 221, 223);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+
+.card{
+    background-image: linear-gradient(to top  ,rgb(149, 209, 162), rgb(0, 90, 49));
+    width:180px;
+    border-radius: 8px;
+    transition: 0.5s;
+    height: 260px;
+    cursor: pointer;
+}
+
+.card:hover{
+    background-color: red;
+    border-bottom-right-radius: 100px;
+}
