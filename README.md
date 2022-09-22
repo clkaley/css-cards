@@ -69,3 +69,10 @@
 
 
 ![Ekran Görüntüsü (618)](https://user-images.githubusercontent.com/74673470/191707689-be0ce458-1425-4bd5-ba3b-52dd14843ad2.png)
+
+
+### Card 10
+
+![Ekran Görüntüsü (619)](https://user-images.githubusercontent.com/74673470/191711869-c95b197b-26cf-4840-8f91-edf1159c334f.png)
+
+![Ekran Görüntüsü (620)](https://user-images.githubusercontent.com/74673470/191711873-ce8bf4cf-cebc-4232-919d-09030612ae7b.png)
