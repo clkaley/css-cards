@@ -53,3 +53,12 @@
 
 
 ![Ekran Görüntüsü (614)](https://user-images.githubusercontent.com/74673470/191472692-8761b461-7724-49ef-91d0-7b11eaebaf92.png)
+
+
+### Card 08
+
+![Ekran Görüntüsü (615)](https://user-images.githubusercontent.com/74673470/191704835-5ae5b963-0251-4692-b3b6-601b411a376c.png)
+
+
+![Ekran Görüntüsü (616)](https://user-images.githubusercontent.com/74673470/191704837-b457339d-59dc-47a3-9c8f-299600e56ba8.png)
+
