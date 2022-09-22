@@ -62,3 +62,10 @@
 
 ![Ekran Görüntüsü (616)](https://user-images.githubusercontent.com/74673470/191704837-b457339d-59dc-47a3-9c8f-299600e56ba8.png)
 
+
+### Card 09
+
+![Ekran Görüntüsü (617)](https://user-images.githubusercontent.com/74673470/191707682-d559300e-489e-42da-8253-663ff4a8fce5.png)
+
+
+![Ekran Görüntüsü (618)](https://user-images.githubusercontent.com/74673470/191707689-be0ce458-1425-4bd5-ba3b-52dd14843ad2.png)
