@@ -76,3 +76,17 @@
 ![Ekran Görüntüsü (619)](https://user-images.githubusercontent.com/74673470/191711869-c95b197b-26cf-4840-8f91-edf1159c334f.png)
 
 ![Ekran Görüntüsü (620)](https://user-images.githubusercontent.com/74673470/191711873-ce8bf4cf-cebc-4232-919d-09030612ae7b.png)
+
+
+
+### Card 11
+
+![Ekran Görüntüsü (621)](https://user-images.githubusercontent.com/74673470/191910380-f7d17727-92b0-40cd-84dd-500dd62c5ae8.png)
+
+
+
+
+
+
+
+### Card 12
