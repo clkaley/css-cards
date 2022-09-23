@@ -85,8 +85,6 @@
 
 
 
-
-
-
-
 ### Card 12
+
+![Ekran Görüntüsü (622)](https://user-images.githubusercontent.com/74673470/191918688-d5a5bec8-f80b-484b-b2d1-fbf98c8e6071.png)
