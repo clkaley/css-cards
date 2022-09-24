@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(233, 233, 233);
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.card{
+    background-color: rgb(255, 255, 255);
+    width:200px;
+    height: 260px;
+    padding: 20px;
+    border-bottom: 2px solid rgb(228, 147, 147);
+    border-right: 2px solid white;
+    border-top: 2px solid white;
+    border-left:2px solid rgb(228, 147, 147);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.card:hover{
+    box-shadow: -5px 3px rgb(228, 147, 147,0.5), -10px 6px rgb(228, 147, 147,0.4),
+    -15px 9px rgb(228, 147, 147,0.3),-20px 6px rgb(228, 147, 147,0.2),-25px 10px rgb(228, 147, 147,0.1);
+    border-bottom: 2px solid rgb(228, 147, 147);
+    border-right: 2px solid rgb(228, 147, 147);
+    border-top: 2px solid rgb(228, 147, 147);
+    border-left: 2px solid rgb(228, 147, 147);
+}
+
+.content{
+    padding-top: 5px;
+    text-align: center;
+}
+
+.card-title{
+    font-size: 20px;
+}
+
+.card-header{
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.btn-group{
+    margin-top: 40px;
+}
+
+.btn{
+    background-color: transparent;
+    border-radius: 5px;
+    border: 2px solid rgb(228, 147, 147);
+    padding: 8px;
+    margin: 5px;
+    transition: 1s;
+}
+
+
+.btn:hover{
+    background-color: rgb(228, 147, 147);
+    border: 2px solid gray;
+    cursor: pointer;
+}
