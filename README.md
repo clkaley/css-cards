@@ -96,3 +96,11 @@
 ![Ekran Görüntüsü (633)](https://user-images.githubusercontent.com/74673470/192086911-14e5aec3-5c44-4e87-9f9d-0106a9dc0061.png)
 
 ![Ekran Görüntüsü (634)](https://user-images.githubusercontent.com/74673470/192086912-e3421568-9374-4956-af9f-da59cff8e3e3.png)
+
+
+### Card 14
+
+![Ekran Görüntüsü (635)](https://user-images.githubusercontent.com/74673470/192088278-122a865c-5f3c-4722-865d-3bbe643c6f9e.png)
+
+
+![Ekran Görüntüsü (636)](https://user-images.githubusercontent.com/74673470/192088280-debe292d-491b-474e-9fc4-99cab78d0fc2.png)
