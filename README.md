@@ -88,3 +88,11 @@
 ### Card 12
 
 ![Ekran Görüntüsü (622)](https://user-images.githubusercontent.com/74673470/191918688-d5a5bec8-f80b-484b-b2d1-fbf98c8e6071.png)
+
+
+
+### Card 13
+
+![Ekran Görüntüsü (633)](https://user-images.githubusercontent.com/74673470/192086911-14e5aec3-5c44-4e87-9f9d-0106a9dc0061.png)
+
+![Ekran Görüntüsü (634)](https://user-images.githubusercontent.com/74673470/192086912-e3421568-9374-4956-af9f-da59cff8e3e3.png)
